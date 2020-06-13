@@ -1,6 +1,6 @@
 #ohamilton79
 #09/06/2020
-#Mandlebrot set generator
+#Mandelbrot set generator
 import numpy as np
 import matplotlib.pyplot as plt
   
