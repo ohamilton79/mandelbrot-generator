@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
   
 #SETTINGS - Modify as desired
-magnification = 2
+magnification = 1
 maxIterations = 255
 xDisplacement = 0
 yDisplacement = 0
