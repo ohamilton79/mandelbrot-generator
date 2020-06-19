@@ -62,5 +62,5 @@ if grayscale:
     
 #Save the image to the disk, using the parameters to define the image name
 plt.imshow(colours)
-imageName = "mandlebrot%" + str(xDisplacement) + "%" + str(yDisplacement) + "x" + str(magnification) + ".png"
+imageName = "mandelbrot%" + str(xDisplacement) + "%" + str(yDisplacement) + "x" + str(magnification) + ".png"
 plt.savefig(imageName)
